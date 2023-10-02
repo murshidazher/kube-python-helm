@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: webapp:2.0
+    image: webapp:1.0
     ports:
       - "80:5000"
     restart: always

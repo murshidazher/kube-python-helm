@@ -41,6 +41,13 @@ To stop all the services in the directory
 kubectl delete -f .
 ```
 
+To get the service url
+
+```sh
+kubectl get pod && kubectl get service # k get pod,service
+minikube service web-service
+```
+
 ## Up & Running
 
 ```sh
