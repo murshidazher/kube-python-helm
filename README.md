@@ -56,4 +56,4 @@ cd src && python app.py
 
 ## License
 
-[MIT] &copy; Murshid Azher.
+[MIT](./LICENSE) &copy; Murshid Azher.
